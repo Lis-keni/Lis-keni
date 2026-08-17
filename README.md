@@ -1,5 +1,6 @@
 # 💫 About Me:
-Me llamo Kenia y soy estudiante de Desarrollo de Software, apasionada por la tecnología y la programación.<br><br>Actualmente estoy aprendiendo desarrollo de software.<br>Me interesa mejorar mis habilidades de programación y desarrollo web .Me gusta resolver problemas y aprender nuevas tecnologías.<br> Estoy trabajando en proyectos personales para poner en práctica mis conocimientos.<br> Mi objetivo es convertirme en un desarrollador de software profesional.<br>
+Me llamo Kenia y soy estudiante de Desarrollo de Software, interesada en aprender y mejorar mis conocimientos en programación y tecnología.<br> Mi meta es desarrollar habilidades en lenguajes como Python, HTML, CSS y JavaScript, aprender a crear aplicaciones y páginas web, y mejorar mi capacidad para resolver problemas. Quiero prepararme para mi futuro profesional, adquirir experiencia y convertirme en una persona responsable, creativa y capaz de alcanzar sus objetivos.
+<br>
 
 
 ## 🌐 Socials:
